@@ -5,6 +5,11 @@ env already installed
 
       env\Scripts\activate
 
+
+Install django
+
+      pip install django
+
       
 Create your django project
 
